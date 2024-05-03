@@ -31,6 +31,7 @@ const Home = () => {
   };
   return (
     <>
+      {/* Home Page */}
       <div className="HomeWrapper">
         <div className="formWrapper">
           <span className="first-logo-text">C</span>
