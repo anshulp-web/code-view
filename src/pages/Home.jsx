@@ -70,9 +70,9 @@ const Home = () => {
           </p>
         </div>
         <footer>
-{/*           <h5>
-            Developed by 😎Anshul Pandya😎 &nbsp; <a href="#">Code</a>
-          </h5> */}
+          <h5>
+            Copyright 2024
+          </h5>
         </footer>
       </div>
     </>
