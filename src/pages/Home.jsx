@@ -71,7 +71,7 @@ const Home = () => {
         </div>
         <footer>
           <h5>
-            Copyright 2024
+            Copyright ©2024
           </h5>
         </footer>
       </div>
